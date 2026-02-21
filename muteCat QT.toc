@@ -1,0 +1,9 @@
+## Interface: 120005, 120001, 120000
+## Title: muteCat QT
+## Notes: Lightweight native reskin for the Blizzard Objective Tracker.
+## Author: muteCat
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\muteCat QT\Media\Textures\muteCatQT_Icon
+
+Core.lua
+Skin.lua
